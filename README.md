@@ -19,6 +19,6 @@ style.css  → Styling and layout
 How to Run:-
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Gopal230/spotify-ui-clone.git
+   git clone https://github.com/Gopal230/Spotify-UI-Clone.git
 2. Open index.html in any browser
   
